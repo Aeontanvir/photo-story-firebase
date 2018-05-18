@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "950618231675",
+    "firebase_url": "https://photo-story-mit-ju.firebaseio.com",
+    "project_id": "photo-story-mit-ju",
+    "storage_bucket": "photo-story-mit-ju.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950618231675:android:9fbd9e712eaab168",
+        "android_client_info": {
+          "package_name": "com.aeontanvir.photostory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950618231675-5kckb51rt99khpeqo6nshe9675tgv2co.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aeontanvir.photostory",
+            "certificate_hash": "35d81900f1ffa57480210b356e798a9dcd23e911"
+          }
+        },
+        {
+          "client_id": "950618231675-adumumr5dj8qea06fpduonvu4um7rb9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA936JOdkqbel6BI3wKOGvubQPBlP1-Wik"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950618231675-adumumr5dj8qea06fpduonvu4um7rb9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
